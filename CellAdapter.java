@@ -55,7 +55,7 @@ public class CellAdapter extends JPanel {
 				}
 			}
 		}
-		//Main.mineFound = true;
+		Main.mineFound = true;
 	}
 
 	//Checks if all cells without mines are uncovered
